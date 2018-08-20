@@ -258,7 +258,7 @@
         }
     });
     // CodeMirror
-    editormd.prismURL = {
+    editormd.codemirror = {
         url: cdn_url(editor.staticFileCDN, 'codemirror')
     };
     // Prism高亮库
